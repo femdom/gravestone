@@ -1,0 +1,17 @@
+[package]
+name = "gravestone"
+version = "0.1.0"
+authors = ["Renat Galimov <renat2017@gmail.com>"]
+
+
+[dependencies]
+
+hyper = "*"
+backtrace = "0.2"
+chrono = "0.2"
+regex = "*"
+select = "*"
+rustc-serialize = "*"
+log = "*"
+argparse = "*"
+prettytable-rs = "*"
